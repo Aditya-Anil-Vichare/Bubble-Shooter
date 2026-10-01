@@ -16,13 +16,6 @@ Bubble-Shooter
     |
     +- README.md
 
-WARNINGS ::  1. Please make sure that you have a backup of this folder before making any changes in any files.
-            2. I know you most likely won't even take efforts of even thinking of creating a backup folder so I myself have made a backup folder to                                   remiend you and to save your efforts in creating backup.
-                (Thank Me Later :) )
-            3. DO NOT make any changes in the files if you dont understand the code.
-                (I am myself unable to understand what I had written. So in case you feel dumb then remember you are not alone.)
-            4. If you are curious on how my code works then I would say that "Fuck Around And Find Out"
-
 Folder 1 : Linux_MacOS ::
 
   File 1.: BubbleShooter_linux_macos_with_enter.c ::
