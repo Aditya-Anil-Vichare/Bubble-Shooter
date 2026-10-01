@@ -34,7 +34,7 @@ NOTE:: Submit Command may or may not be required depending on the file you run.
     </tr>
 </table>
     
-## Index
+## Directories
 	Bubble Shooter
     	|
         +-- Linux_MacOS
